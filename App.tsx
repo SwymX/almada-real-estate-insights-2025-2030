@@ -544,11 +544,11 @@ const App: React.FC = () => {
       <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-[#E11D48]/10 blur-[200px] rounded-full pointer-events-none"></div>
       <div className="max-w-4xl text-center relative z-10 px-4">
         <h2 className="text-3xl md:text-5xl font-serif font-bold text-white mb-8 tracking-tighter leading-tight italic">
-          "A transformação de Almada não é <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">SE</span>, mas <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">QUANDO</span> e <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">ONDE</span>."
-        </h2>
+  "A transformação de Almada não é <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">SE</span>, mas <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">QUANDO</span> e <span className="text-[#E11D48] not-italic underline decoration-1 underline-offset-8">ONDE</span>."
+</h2>
         <div className="bg-zinc-950 border border-zinc-900 p-10 rounded-[3rem] mb-8 relative overflow-hidden group backdrop-blur-xl">
            <p className="text-base md:text-lg text-zinc-400 leading-relaxed font-light italic mb-6">
-              "2025 representa a janela crítica para o positioning estratégico que irá capturar a próxima década de valor em Almada. O momento é agora!"
+              "2025 representa a janela crítica para o posicionamento estratégico que irá capturar a próxima década de valor em Almada. O momento é agora!"
            </p>
            <div className="flex items-center justify-center gap-4">
               <div className="w-12 h-12 rounded-2xl bg-zinc-900 flex items-center justify-center border border-zinc-800 shadow-inner">
