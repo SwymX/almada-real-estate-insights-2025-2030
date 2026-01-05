@@ -59,7 +59,7 @@ const App: React.FC = () => {
       <div className="max-w-6xl animate-in fade-in zoom-in duration-1000 relative z-10">
         <div className="mb-6 inline-flex items-center gap-4 bg-zinc-950/50 border border-zinc-800 px-5 py-2 rounded-full backdrop-blur-md">
            <span className="w-1.5 h-1.5 rounded-full bg-[#E11D48] animate-pulse"></span>
-           <span className="text-[9px] font-black uppercase tracking-[0.4em] text-zinc-400">Exclusivo: Ana Catarino</span>
+           <span className="text-[9px] font-black uppercase tracking-[0.4em] text-zinc-400">Exclusivo: SwymX</span>
         </div>
         <h1 className="text-7xl md:text-[9rem] font-serif font-bold text-white mb-4 leading-[0.85] tracking-tighter">
           ALMADA<br/><span className="text-[#E11D48]">2030.</span>
@@ -555,8 +555,8 @@ const App: React.FC = () => {
                  <User size={24} className="text-[#E11D48]" />
               </div>
               <div className="text-left">
-                 <p className="text-lg font-black text-white leading-none mb-1">Ana Catarino</p>
-                 <p className="text-[9px] font-bold text-[#E11D48] uppercase tracking-[0.4em]">Senior Advisory | DILS</p>
+                 <p className="text-lg font-black text-white leading-none mb-1">SwymX</p>
+                 <p className="text-[9px] font-bold text-[#E11D48] uppercase tracking-[0.4em]">Senior Advisory | Almada</p>
               </div>
            </div>
         </div>
@@ -617,7 +617,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="fixed bottom-0 left-0 w-full py-4 px-12 flex justify-between items-center pointer-events-none z-[100] opacity-30">
-        <div className="text-[8px] font-black text-zinc-700 uppercase tracking-[0.5em]">DILS GLOBAL REAL ESTATE</div>
+        <div className="text-[8px] font-black text-zinc-700 uppercase tracking-[0.5em]">Almada </div>
         <div className="text-[8px] font-black text-zinc-700 uppercase tracking-[0.5em]">ALMADA STRATEGY 2030</div>
       </footer>
     </div>

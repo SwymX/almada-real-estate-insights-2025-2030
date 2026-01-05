@@ -5,7 +5,7 @@ import { MarketMetric, LocationData } from './types';
 
 export const COLORS = {
   primary: '#000000',
-  secondary: '#E11D48', // Dils Red
+  secondary: '#E11D48', // Almada Red
   apartments: '#FFFFFF',
   houses: '#E11D48',
   accent: '#18181B' // Zinc 900
