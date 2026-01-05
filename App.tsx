@@ -555,8 +555,8 @@ const App: React.FC = () => {
                  <User size={24} className="text-[#E11D48]" />
               </div>
               <div className="text-left">
-                 <p className="text-lg font-black text-white leading-none mb-1">SwymX</p>
-                 <p className="text-[9px] font-bold text-[#E11D48] uppercase tracking-[0.4em]">Senior Advisory | Almada</p>
+                 <p className="text-lg font-black text-white leading-none mb-1">Systems - Workflows - You - Movement - Excellence</p>
+                 <p className="text-[9px] font-bold text-[#E11D48] uppercase tracking-[0.4em]">Senior Advisory | santos@swymx.pt</p>
               </div>
            </div>
         </div>
